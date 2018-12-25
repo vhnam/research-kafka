@@ -1,0 +1,12 @@
+{
+  "name": "receiver",
+  "version": "1.0.0",
+  "description": "Research Kafka with Node.js - Receiver",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Nam Vo <vhnam2504@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "kafka-node": "^3.0.1"
+  }
+}
