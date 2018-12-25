@@ -1,0 +1,15 @@
+{
+  "name": "research-kafka",
+  "version": "1.0.0",
+  "description": "Research Kafka with Node.js - Sender",
+  "main": "server.js",
+  "scripts": {},
+  "author": "Nam Vo <vhnam2504@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "kafka-node": "^3.0.1"
+  }
+}
